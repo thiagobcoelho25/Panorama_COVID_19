@@ -17,9 +17,8 @@ Com o objetivo de elevar a consciência situacional a respeito do COVID-19 no Br
 
 **Links:**
 
-* [Projeto no Medium](https://medium.com/@jessicacunha.jsc/panorama-do-covid-19-2b7977a62337)
+* [Projeto no Medium](https://thiagobcoelho25.medium.com/an%C3%A1lise-explorat%C3%B3ria-dos-dados-da-covid-19-b7b8afd3de96)
 * [LinkedIn](https://www.linkedin.com/in/thiagobcoelho25/)
-
 
 
 
